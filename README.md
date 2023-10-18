@@ -1,2 +1,2 @@
-# bibliotec
-A bibliotec é um projeto de TCC que promove o acesso livre a leitura na etec
+git add database/shop_db.sql
+git commit -m "Adicionando backup do banco de dados MySQL"
